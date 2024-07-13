@@ -9,8 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^1.7.2",
+    "jwt-decode": "^4.0.0",
+    "next": "14.2.5",
+    "nookies": "^2.5.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-icons": "^5.2.1",
+    "sass": "^1.77.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.3"
   }
 }
